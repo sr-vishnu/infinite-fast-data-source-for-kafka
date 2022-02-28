@@ -1,0 +1,9 @@
+---
+basic:
+  broker: localhost
+  port: 9092
+  topic: test_overwride
+  throughput: 1
+  wait: 10
+
+additional-kafka-producer-config: {}
